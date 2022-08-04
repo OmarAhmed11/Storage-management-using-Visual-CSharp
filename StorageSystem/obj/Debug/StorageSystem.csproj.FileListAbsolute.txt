@@ -1,0 +1,117 @@
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Form1.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Properties.Resources.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Reports.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.GenerateResource.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CoreCompileInputs.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.AssemblyReference.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe.config
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\StorageSystem.pdb
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\EntityFramework.dll
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\EntityFramework.xml
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.exe
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.pdb
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage2\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Migrations.init.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe.config
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.pdb
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.dll
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.xml
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.AssemblyReference.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Form1.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Properties.Resources.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Reports.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.GenerateResource.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CoreCompileInputs.cache
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.exe
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.pdb
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.ShowCategory.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Users.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice1.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice2.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice3.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Sellitem.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Migrations.init.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.PurchaseItem.resources
+D:\ITI Dot Net\Visual c# and LINQ Project\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.AddStorage.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe.config
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.pdb
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.dll
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.xml
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.AssemblyReference.cache
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.AddStorage.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Form1.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice1.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice2.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice3.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Migrations.init.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Properties.Resources.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.PurchaseItem.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Reports.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Sellitem.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.ShowCategory.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Users.resources
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.GenerateResource.cache
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CoreCompileInputs.cache
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.exe
+C:\Users\LeNoVo\OneDrive\Desktop\Test\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.pdb
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe.config
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.pdb
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.dll
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.xml
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.AddStorage.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Form1.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice1.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice2.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice3.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Properties.Resources.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.PurchaseItem.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Reports.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Sellitem.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.ShowCategory.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Users.resources
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.exe
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.pdb
+C:\Users\hp\Downloads\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Migrations.init.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe.config
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.exe
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\StorageSystem.pdb
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.dll
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.xml
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.AssemblyReference.cache
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.AddStorage.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Form1.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice1.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice2.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Invoice3.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Migrations.init.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Properties.Resources.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.PurchaseItem.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Reports.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Sellitem.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.ShowCategory.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.Users.resources
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.GenerateResource.cache
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CoreCompileInputs.cache
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.csproj.CopyComplete
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.exe
+D:\shenawy project\Storage (1)\Storage\StorageSystem\StorageSystem\obj\Debug\StorageSystem.pdb
